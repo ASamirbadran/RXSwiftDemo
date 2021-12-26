@@ -1,2 +1,2 @@
 ## RXSwiftDemo
-#Simple MVVM With RxSwift Demo
+Simple MVVM With RxSwift Demo
